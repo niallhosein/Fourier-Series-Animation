@@ -1,3 +1,14 @@
+"""
+Fourier Series Animation Program
+Author: Niall Hosein
+Copyright (c) 2024 Niall Hosein. All rights reserved.
+
+This program uses Manim, a community-driven animation engine for explanatory math videos.
+For more information on Manim, visit: https://github.com/ManimCommunity/manim
+
+Background music: "Can You Hear The Music" by Ludwig Göransson
+"""
+
 from scipy import integrate
 import numpy as np
 import matplotlib.pyplot as plt
