@@ -7,7 +7,7 @@ Welcome to my Fourier Series Animation project! This repository contains Python 
 ### Mathematical Background
 While this project is built in such a way that the user would not have to understand most of the underlying mathematics involved, I believe that a brief introduction to the subject is insightful. 
 
-A periodic function can be expressed as an infinite sum of sines and cosines, and this series is called a "Fourier Series". For a perioduc function defined on `0 < x < L` with period $P$, the series is given by:
+A periodic function can be expressed as an infinite sum of sines and cosines, and this series is called a "Fourier Series". For a periodic function defined on `0 < x < L` with period $P$, the series is given by:
 
 <div align="center">
   
