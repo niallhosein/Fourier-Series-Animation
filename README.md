@@ -85,7 +85,7 @@ https://github.com/niallhosein/Fourier-Series-Animation/assets/140116446/c3d7c52
 
 
 
-## Previous Versions and Preliminary Works
+## Previous Versions and Preliminary Work
 #### Version 0
 Initially, I made pre-defined functions and analytically determined the fourier coefficents. I quickly realized that this was very inefficient, and did not allow for much versatility. 
 
