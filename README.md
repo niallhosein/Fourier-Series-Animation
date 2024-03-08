@@ -75,7 +75,11 @@ All other changes can be done by playing around with Manim and observing the res
 
 **The following is a 1080p 60fps render of the final result.**
 
-https://github.com/niallhosein/Fourier-Series-Animation/assets/140116446/f0d06bcd-e2e6-4fd1-bb02-93b993795ef8
+
+https://github.com/niallhosein/Fourier-Series-Animation/assets/140116446/c3d7c525-b0f7-4271-afd7-b1a496b347e9
+
+
+
 
 ## Previous Versions and Preliminary Works
 #### Version 0
