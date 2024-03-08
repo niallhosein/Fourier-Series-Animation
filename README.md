@@ -142,7 +142,7 @@ The primary difference in this version is that I defined the name as one functio
 
 </div>
 
-All other changes are aesthetic using various features provided by the Manim package. 
+All other changes are aesthetic using various features provided by the Manim library. 
 
 ## Credits
 - **Author:** Niall Hosein
