@@ -279,7 +279,7 @@ class Animation(MovingCameraScene):
         # Create and animate the gamma ValueTracker - for the final portion of graph
         gamma = ValueTracker(0)
         third_graph = axes.plot(lambda x: self.fourier_series(x, intro_degree, a0, an, bn, P), color=RED,
-                                x_range=[226, 330, x_increment])
+                                x_range=[226, 332, x_increment])
         dot3 = always_redraw(lambda: Dot(third_graph.point_from_proportion(gamma.get_value())))
         self.play(self.camera.frame.animate.scale(1.5).move_to(axes.c2p(275, 50)))
         self.play(DrawBorderThenFill(third_graph))
