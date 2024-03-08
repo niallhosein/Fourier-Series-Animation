@@ -106,6 +106,8 @@ def calc_bn(self, func, n:int, low_lim, upper_lim):
 
 **Here are the preliminary Fourier series representation of each letter.**
 
+<div align="center">
+
 ![N](https://github.com/niallhosein/Fourier-Series-Animation/assets/140116446/61b8fddf-15c7-45e4-bf15-4fe77105e2fd)
 
 ![I](https://github.com/niallhosein/Fourier-Series-Animation/assets/140116446/651df2de-d26d-4cfb-b801-4d6ad240f819)
@@ -113,6 +115,8 @@ def calc_bn(self, func, n:int, low_lim, upper_lim):
 ![A](https://github.com/niallhosein/Fourier-Series-Animation/assets/140116446/8ac76c87-9c29-4d93-b4b8-23d680876504)
 
 ![L](https://github.com/niallhosein/Fourier-Series-Animation/assets/140116446/c1e466f7-f3e1-4eeb-b768-a6ff228176a4)
+
+</div>
 
 _Some letters required two lines to be formed properly. The extra line is shown in orange._
 
@@ -128,7 +132,11 @@ These considerations, together with me now being more familiar with Manim, led t
 
 The primary difference in this version is that I defined the name as one function so that the animation will be closer to the graph to allow the oscillatory behavior to be more easily observered. 
 
+<div align="center">
+
 ![Niall](https://github.com/niallhosein/Fourier-Series-Animation/assets/140116446/c3f16559-3989-4dbb-b82a-b4fe015f03f2)
+
+</div>
 
 All other changes are aesthetic using various features provided by the Manim package. 
 
