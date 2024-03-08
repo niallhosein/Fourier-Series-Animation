@@ -13,7 +13,11 @@ A periodic function can be expressed as an infinite sum of sines and cosines, an
   
 $f(x) = a_0 + \sum_{n=1}^{\infty} \left( a_n \cos\left(\frac{2\pi n x}{P}\right) + b_n \sin\left(\frac{2\pi n x}{P}\right) \right)$
 
-where 
+</div>
+
+where:
+
+<div align="center">
 
 $a_0 = \frac{1}{P} \int_{0}^{L} f(x) dx$
 
@@ -25,7 +29,7 @@ $b_n = \frac{2}{P} \int_{0}^{L} f(x) \sin\left(\frac{2\pi n x}{P}\right)dx$
 
 _Note: In most cases,_ $P = L$.
 
-Notice that $a_0$ is just the average of the function along the interval `0 < x < L`. This application uses this framework to numerically approximate the fourier coefficents for a given input function. 
+Notice that $a_0$ is just the average of the function along the interval `0 < x < L`. This application uses this framework to numerically approximate the Fourier coefficents for a given input function. 
 
 ### Getting Started
 To run the animations, first define a piecewise function in python that corresponds to the function to be plotted. The following is the function used to generate "NIALL" in the final version:
