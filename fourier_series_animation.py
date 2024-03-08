@@ -1,5 +1,5 @@
 """
-Fourier Series Animation Program
+Fourier Series Animation
 Author: Niall Hosein
 Copyright (c) 2024 Niall Hosein. All rights reserved.
 
