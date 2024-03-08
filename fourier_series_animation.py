@@ -263,7 +263,7 @@ class Animation(MovingCameraScene):
         # Animate the alpha ValueTracker
         self.play(alpha.animate.set_value(0.8), rate_func=rush_into, run_time=5)
 
-        # Remove the dot1
+        # Remove dot1
         self.remove(dot1)
 
         # Create and animate the beta ValueTracker - middle portion of graph
